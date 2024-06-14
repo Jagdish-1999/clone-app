@@ -23,5 +23,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Tailwind CSS
 4. Context API for now
 
-This is mock data used in this app
+Mock data used in this app
 
