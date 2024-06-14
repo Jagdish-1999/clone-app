@@ -1,0 +1,15 @@
+{
+	"cSpell.enableFiletypes": [
+		"!elixir",
+		"!erlang",
+		"!jade",
+		"dockerfile",
+		"git-rebase",
+		"jsx",
+		"prisma",
+		"styled-css",
+		"tailwindcss",
+		"typescriptreact",
+		"xml"
+	]
+}
